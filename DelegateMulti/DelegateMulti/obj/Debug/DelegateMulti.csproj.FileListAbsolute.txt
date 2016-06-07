@@ -1,6 +1,0 @@
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\bin\Debug\DelegateMulti.exe.config
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\bin\Debug\DelegateMulti.exe
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\bin\Debug\DelegateMulti.pdb
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\obj\Debug\DelegateMulti.csprojResolveAssemblyReference.cache
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\obj\Debug\DelegateMulti.exe
-C:\Users\Hussen\Desktop\Week9\DelegateMulti\DelegateMulti\obj\Debug\DelegateMulti.pdb

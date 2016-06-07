@@ -1,18 +1,18 @@
 ﻿using System;
 
-namespace DelegateMulti
+namespace MultiDelegate
 {
     class Program
     {
         static void Main(string[] args)
         {
-            A.Run();
-            Console.ReadLine();
-        }
+                A.Run();
+                Console.ReadLine();
+            }
 
-        delegate int Calculator(int n, int m);
+            delegate int Calculator(int n, int m);
 
-        static class A
+            static class A
         {
             public static void Run()
             {
